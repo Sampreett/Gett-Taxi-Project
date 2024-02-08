@@ -1,4 +1,5 @@
  Project Name - Insights from Failed Orders
+
  Gett, previously known as GetTaxi, is an Israeli-developed technology platform solely focused on corporate Ground Transportation Management (GTM)
  They have an application where clients can order taxis, and drivers can accept their rides (offers).
  At the moment, when client clicks the Order button in the application, matching system searches for the most relevant drivers & offers them the o
